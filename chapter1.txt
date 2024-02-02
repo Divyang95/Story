@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 It was best of times chapter 1  and it was wrost of times chapter2code 
+=======
+It was best of space chapter 1  and it was wrost of space chapter2
+>>>>>>> alien-plot
